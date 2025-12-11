@@ -23,7 +23,7 @@
       <a href="">Sobre nós</a>         
     </nav>
     </div>
-    <button class="btn">Entrar</button>
+    <a href="Login-Registration/login.php"><button class="btn">Entrar</button></a>
   </header>
 
   <div class="conteiner">
